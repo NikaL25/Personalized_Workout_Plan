@@ -1,8 +1,6 @@
-# from django.contrib import admin
-# from .models import WorkoutPlan, WeightTracking, FitnessGoal, CompletedExercise
-# # Register your models here.
+from django.contrib import admin
+from .models import WorkoutPlan, WorkoutSession
 
-# admin.site.register(WorkoutPlan)
-# admin.site.register(WeightTracking)
-# admin.site.register(FitnessGoal)
-# admin.site.register(CompletedExercise)
+
+admin.site.register(WorkoutPlan)
+admin.site.register(WorkoutSession)
