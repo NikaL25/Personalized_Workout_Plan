@@ -12,7 +12,7 @@ This Django-based RESTful API allows users to manage personalized workout plans 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/fitness-app.git
+   git clone https://github.com/NikaL25/Personalized_Workout_Plan.git
 
 2. Navigate to the project directory:
    cd fitness-app
